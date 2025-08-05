@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for prkikani -->
+<!-- GitHub Profile README for pradipkikani -->
 
 <h1 align="center">Hi 👋, I'm Pradipkumar Kikani</h1>
 <h3 align="center">A Passionate Mobile Developer | iOS, Android, Flutter</h3>
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on building utility and productivity mobile apps  
 - 🌱 I’m exploring AI + on-device ML features for mobile  
 - 💬 Ask me about iOS (SwiftUI), Android (Kotlin), and Flutter  
-- 👨‍💻 All of my projects are available at: [github.com/prkikani](https://github.com/prkikani)  
+- 👨‍💻 All of my projects are available at: [github.com/pradipkikani](https://github.com/pradipkikani)  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/pradip-kikani)  
 
 ---
@@ -30,18 +30,18 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Fitness Timer AI](https://github.com/prkikani/fitness-timer-ai) | 5-minute fitness app with AI guidance | SwiftUI + CoreML |
-| [Maintenance App](https://github.com/prkikani/society-maintenance) | Society bill manager for tenants/owners | SwiftUI + Firebase |
-| [Video Downloader](https://github.com/prkikani/video-downloader-python) | Download from YouTube, Instagram, FB | Python + Flask |
-| [Motivation App](https://github.com/prkikani/motivation-habits) | Daily quotes + habit tracking | Flutter + SQLite |
+| [Fitness Timer AI](https://github.com/pradipkikani/fitness-timer-ai) | 5-minute fitness app with AI guidance | SwiftUI + CoreML |
+| [Maintenance App](https://github.com/pradipkikani/society-maintenance) | Society bill manager for tenants/owners | SwiftUI + Firebase |
+| [Video Downloader](https://github.com/pradipkikani/video-downloader-python) | Download from YouTube, Instagram, FB | Python + Flask |
+| [Motivation App](https://github.com/pradipkikani/motivation-habits) | Daily quotes + habit tracking | Flutter + SQLite |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prkikani&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkikani&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradipkikani&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipkikani&" />
 </p>
 
 ---
